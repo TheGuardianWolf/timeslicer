@@ -1,0 +1,7 @@
+{
+  "name": "Timeslicer",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
